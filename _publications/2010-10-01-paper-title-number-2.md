@@ -1,4 +1,3 @@
-
 ---
 title: "Ischaemic stroke and SARS-CoV-2 infection"
 collection: publications
