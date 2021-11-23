@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Publications"
-    url: iagoregogarcia.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: iagoregogarcia.github.io/talks/    
+    url: /talks/    
 
   - title: "Teaching"
-    url: iagoregogarcia.github.io/teaching/    
+    url: /teaching/    
     
   - title: "Non-academic publications"
-    url: iagoregogarcia.github.io/blog/
+    url: /blog/
         
   - title: "Dementia at Kilimanjaro"
     url: https://www.dementiaresearcher.nihr.ac.uk/guest-blog-cognitive-impairment-at-the-foot-of-kilimanjaro
     
   - title: "CV"
-    url: iagoregogarcia.github.io/cv/
+    url: /cv/
     
   - title: "Guide"
-    url: iagoregogarcia.github.io/markdown/
+    url: /markdown/
