@@ -1,5 +1,5 @@
 ---
-title: "Don't know sign"
+title: "[Don't know sign]"(https://rdcu.be/cpiEh)
 collection: publications
 permalink: /publication/Dont-know-sign
 excerpt: 'This paper describes the diagnostic utility of a common observation in Neurology clinics.'
@@ -8,8 +8,3 @@ venue: 'Neurological Sciences'
 paperurl: 'https://rdcu.be/cpiEh'
 citation: 'Rego-Garcia, I. (2021). <i>Neurological Sciences</i> Jul 21.'
 ---
-This paper describes the diagnostic utility of a common observation in Neurology clinics.
-
-[Read the paper here](https://rdcu.be/cpiEh)
-
-Recommended citation: Rego-Garcia, I. (2021). <i>Neurological Sciences</i> Jul 21.
