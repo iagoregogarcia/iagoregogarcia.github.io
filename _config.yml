@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Iago Rego García"
   avatar           : "avatar2019.jpg"
-  bio              : "We create create posters"
+  bio              : "We create posters"
   location         : "Zumárraga"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=iago+rego-garcia"
@@ -122,6 +122,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - config
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -139,7 +141,6 @@ exclude:
   - assets/js/_main.js
   - assets/js/plugins
   - assets/js/vendor
-  - config
   - gulpfile.js
   - log
   - node_modules
