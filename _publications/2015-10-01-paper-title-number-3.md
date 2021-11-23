@@ -1,5 +1,5 @@
 ---
-title: "[Don't know sign]"(https://rdcu.be/cpiEh)
+title: "Don't know sign"
 collection: publications
 permalink: /publication/Dont-know-sign
 excerpt: 'This paper describes the diagnostic utility of a common observation in Neurology clinics.'
